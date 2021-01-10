@@ -1,2 +1,2 @@
 # great-rocket
-homeworke for Skillfactory
+Homework for Skillfactory
